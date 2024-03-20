@@ -17,7 +17,9 @@ img {
 <body>
 
 
-<p>Hello! I am an educator interested in collaborative work of librarians as research partners, connecting students, educators, and other stakeholders within and beyond university campuses. This website showcases a few digital projects that I have worked on recently as well as other information about work I have done in libraries and other academic contexts.</p>
+<p>Hello! I am an educator interested in collaborative work of librarians as research partners, connecting students, educators, and other stakeholders within and beyond university campuses.</p>
+  
+<p>This website showcases a few digital projects that I have worked on recently as well as other information about work I have done in libraries and other academic contexts.</p>
 <br>
 <br>
 <h3>About me</h3>
