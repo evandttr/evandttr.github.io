@@ -56,7 +56,7 @@ title: ""
 <p>Hello! I am an educator interested in collaborative work of librarians as research partners, connecting students, educators, and other stakeholders within and beyond university campuses.</p>
   
 <p>This website showcases a few digital projects that I have worked on recently as well as other information about work I have done in libraries and other academic contexts.</p>
-<br>
+
 
 <div class="container">
   <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/9031d402-bffb-4944-9de0-9ab0767c25ce" alt="Map" style="width:100%;opacity:0.2">
@@ -74,7 +74,6 @@ title: ""
 </div>
 
 
-<br>
 <h3>About me</h3>
 
 <p><img class="bioimage" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/fe656ec6-a055-4251-b8b7-0cb9cdabc06f" alt="profile" style="width:75px;margin-left:0px; margin-right:20px;">
