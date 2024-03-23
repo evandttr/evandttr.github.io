@@ -18,9 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV/Resume"}
   - {file: "bio.md", "About me"}
-  - {file: "curate.md", title: "Curated Collections"}
-  - {file: "hand.md", title: "Handwritten Text Recognition"}
-  - {file: "digital.md", title: "Digital Storytelling"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:editter@princeton.edu"}
