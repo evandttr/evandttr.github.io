@@ -12,18 +12,22 @@ title: ""
   float: left;
   border-radius: 50%;
 }
+
 .special-image {
     border-radius: 15px
 }
+
 .container {
   position: relative;
   width: 100%;
   max-width: 400px;
 }
+
 .container img {
   width: 100%;
   height: auto;
 }
+
 .container .btn {
   position: absolute;
   top: 50%;
@@ -39,9 +43,11 @@ title: ""
   border-radius: 15px;
   text-align: center;
 }
+
 .container .btn:hover {
   background-color: lightgray;
 }
+
 </style>
 </head>
 <body>
