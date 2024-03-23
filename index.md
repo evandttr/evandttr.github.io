@@ -59,26 +59,19 @@ img {
 <br>
 
 <div class="container">
-  <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/9031d402-bffb-4944-9de0-9ab0767c25ce" alt="Snow" style="width:100%">
-  <button class="btn">Curated Collections</button>
+  <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/9031d402-bffb-4944-9de0-9ab0767c25ce" alt="Map" style="width:100%">
+  <button class="btn">Digital Storytelling & Maps</button>
 </div>
 
 <div class="container">
-  <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/1fde4364-6da7-4e60-ba09-0020bfe6d7b8" alt="Snow" style="width:100%">
-  <button class="btn">Curated Collections</button>
+  <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/1fde4364-6da7-4e60-ba09-0020bfe6d7b8" alt="Manuscript" style="width:100%">
+  <button class="btn">Handwritten Text Recognition</button>
 </div>
 
 <div class="container">
-  <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/83ec70bd-19af-4b90-b5a3-9a9f788946ef" alt="Snow" style="width:100%">
-  <button class="btn">Curated Collections</button>
+  <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/83ec70bd-19af-4b90-b5a3-9a9f788946ef" alt="Cherokee_alphabet" style="width:100%">
+  <button class="btn">Curated Collections & Libguides</button>
 </div>
-
-
-<img width="800" alt="Screen Shot 2024-03-23 at 10 44 27 AM" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/9031d402-bffb-4944-9de0-9ab0767c25ce">
-
-<img width="800" alt="Screen Shot 2024-03-23 at 10 45 52 AM" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/1fde4364-6da7-4e60-ba09-0020bfe6d7b8">
-
-<img width="800" alt="Screen Shot 2024-03-23 at 10 46 47 AM" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/83ec70bd-19af-4b90-b5a3-9a9f788946ef">
 
 
 <br>
