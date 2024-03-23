@@ -34,7 +34,7 @@ title: ""
   -ms-transform: translate(-50%, -50%);
   background-color: transparent;
   color: black;
-  font-size: larger;
+  font-size: smaller;
   font-weight: bold;
   padding: none;
   border: none;
