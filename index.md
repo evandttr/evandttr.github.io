@@ -35,6 +35,7 @@ title: ""
   background-color: transparent;
   color: black;
   font-size: 13px;
+  font-weight: bold;
   padding: none;
   border: none;
   cursor: pointer;
