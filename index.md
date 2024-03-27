@@ -57,9 +57,9 @@ title: ""
 <body>
 
 
-<p>Hello! My name is Evan Ditter, I am an educator interested in the collaborative work of librarians as research partners, using digital tools to support in partnership with students, educators, and other stakeholders within and beyond university campuses.</p>
+<p>Hello! My name is Evan Ditter, and I am an educator interested in the collaborative work of librarians as research partners, using digital tools to support projects in partnership with students, educators, and other stakeholders within and beyond university campuses.</p>
   
-<p>This website showcases a few digital projects that I have worked on recently as well as other information about work I have done in libraries and other academic contexts.</p>
+<p>This website showcases a few digital projects that I have worked on recently, as well as other information about work I have done in libraries and other academic contexts.</p>
 
 <div class="container">
   <img class="special-image" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/9031d402-bffb-4944-9de0-9ab0767c25ce" alt="Map" style="width:100%;opacity:0.2">
