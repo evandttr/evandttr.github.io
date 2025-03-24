@@ -1,4 +1,3 @@
-### Evan Ditter
 
 ### EXPERIENCE 
 
