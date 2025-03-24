@@ -1,5 +1,7 @@
 
-<span style="display:none">EXPERIENCE</span>
+<span style="display:none">Evan Ditter</span>
+### Evan Ditter
+
 ### EXPERIENCE
 
 **Graduate Assistant** - Princeton Center for the Digital Humanities **(July 2024- January 2025)**
