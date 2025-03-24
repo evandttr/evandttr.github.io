@@ -57,7 +57,7 @@ title: ""
 <body>
 
 
-<p>Hello! My name is Evan Ditter, and I am an educator interested in the collaborative work of librarians as research partners, using digital tools to support projects in partnership with students, educators, and other stakeholders within and beyond university campuses.</p>
+<p>Hello! My name is Evan Ditter, and I am an higher education professional interested in the collaborative work of research infrastructure, and supporting digital projects in partnership with students, educators, and other stakeholders within and beyond university campuses.</p>
   
 <p>This website showcases a few digital projects that I have worked on recently, as well as other information about work I have done in libraries and other academic contexts.</p>
 
@@ -80,7 +80,7 @@ title: ""
 <h3>About me</h3>
 
 <p><img class="bioimage" src="https://github.com/evandttr/evandttr.github.io/assets/120140116/fe656ec6-a055-4251-b8b7-0cb9cdabc06f" alt="profile" style="width:75px;margin-left:0px; margin-right:20px;">
-I am a PhD candidate at Princeton University specializing in Early Modern France, and have worked on a variety of library-based projects and digital initiatives at Princeton University Library and Penn Libraries at the University of Pennsylvania. I am passionate about promoting digital literacies and employing digital tools to make cultural heritage materials accessible.</p>
+I recieved my PhD from Princeton University in 2025, and have worked on a variety of library-based projects and digital initiatives at Princeton Center for Digital Humanities, Penn Libraries at the University of Pennsylvania, and Princeton University Library. I am passionate about promoting digital literacies and employing digital tools to make cultural heritage materials and academic research more accessible.</p>
 
 </body>
 </html>
