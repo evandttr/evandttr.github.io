@@ -2,7 +2,7 @@
 
 ### EXPERIENCE 
 
-**Graduate Assistant** - Princeton Center for the Digital Humanities **(July 2024- Present)**
+**Graduate Assistant** - Princeton Center for the Digital Humanities **(July 2024- January 2025)**
 	
   * Participated in digital humanities consultations with faculty and researchers; providing support for a variety of CDH projects and initiatives; and helping organize events to build DH community.
   * Managed the submission of a scholarly dataset to Princeton's data repository and collaborating with faculty to produce related documentation such as Readme files and data dictionaries.
