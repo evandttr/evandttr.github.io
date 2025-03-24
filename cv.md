@@ -1,5 +1,6 @@
 
-### EXPERIENCE 
+<span style="display:none">EXPERIENCE</span>
+### EXPERIENCE
 
 **Graduate Assistant** - Princeton Center for the Digital Humanities **(July 2024- January 2025)**
 	
