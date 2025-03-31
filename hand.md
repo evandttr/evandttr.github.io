@@ -11,6 +11,9 @@ A segmented image from one the medical dissertations included in the project [An
 ![378tran](https://github.com/user-attachments/assets/d2ba7474-bbc9-4037-b0a0-1b1455f88d96)
 A corrected transcription from An Inaugural Dissertation on Dysentery (378.748 POM 10.9). The excerpted text reads: “being repeated as often as the state of the system should demand it; but during some seasons when the system appears disposed to fall into a typhus condition, caution in the use of bloodletting becomes necessary; but generally in our climate […]”
 
+<img width="790" alt="kraken" src="https://github.com/user-attachments/assets/e53445e0-4daa-4193-8f54-cbc97411feb5" />
+An example of the output from the command line interface of Kraken. Each stage on the left refers to a full iteration through all of the training data. On the right, the validation accuracy indicates the percentage of individual characters and full words (“val_accu…” and “val_word…” respectively) predicted correctly.
+
 <div style="text-align: center;">
   <hr style="width: 50%; margin: 2em auto;" />
 </div>
