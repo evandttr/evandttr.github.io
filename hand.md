@@ -11,7 +11,9 @@ A segmented image from one the medical dissertations included in the project [An
 ![378tran](https://github.com/user-attachments/assets/d2ba7474-bbc9-4037-b0a0-1b1455f88d96)
 A corrected transcription from An Inaugural Dissertation on Dysentery (378.748 POM 10.9). The excerpted text reads: “being repeated as often as the state of the system should demand it; but during some seasons when the system appears disposed to fall into a typhus condition, caution in the use of bloodletting becomes necessary; but generally in our climate […]”
 
-
+<div style="text-align: center;">
+  <hr style="width: 50%; margin: 2em auto;" />
+</div>
 
 As a graduate fellow at Princeton's [Center for the Digital Humanities](https://cdh.princeton.edu/), I designed and implemented a project to make a 16th-century manuscript held in Princeton's Special Collections more accessible to researchers using AI-powered [Handwriting Text Recognition](https://en.wikipedia.org/wiki/Handwriting_recognition). This technology represents a powerful means of promoting access to cultural heritage, providing ways to extract text from cultural heritage materials and make otherwise static images of manuscripts searchable. And what's more, the surprisingly intuitive tools on the market today are a great way to introduce students to manuscript studies and paleography. 
 
